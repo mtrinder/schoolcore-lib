@@ -1,0 +1,1 @@
+# schoolcore-lib
